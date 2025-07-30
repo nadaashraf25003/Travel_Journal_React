@@ -1,6 +1,5 @@
 {
-  "homepage": "https://nadaashraf25003.github.io/Travel_Journal_React",
-  "name": "figma_react_2",
+    "name": "figma_react_2",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,9 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "preview": "vite preview"
   },
   "dependencies": {
     "react": "^19.1.0",
