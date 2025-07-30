@@ -3,7 +3,7 @@ function Header() {
   return (
     <>
       <header>
-        <img src="/src/assets/Globe.svg" alt=""  />
+        <img src="/src/assets/Globe.svg" alt="/src/assets/Globe.svg"  />
         <p>my travel journal</p>
       </header>
     </>
